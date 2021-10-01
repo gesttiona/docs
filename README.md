@@ -4,4 +4,4 @@
 
 Puede consultar las versiones de nuestra aplicación.
 
-* [v1.0.0](release/v1.0.0.md "Versión 1.0.0")
+* [Release 01/10/2021](release/01.10.2021.md "Release 01/10/2021")
