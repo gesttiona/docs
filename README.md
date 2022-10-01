@@ -15,3 +15,4 @@ Puede consultar las versiones de nuestra aplicación.
 * [Release 23/08/2022](release/23.08.2022.md "Release 23/08/2022")
 * [Release 02/09/2022](release/02.09.2022.md "Release 02/09/2022")
 * [Release 16/09/2022](release/16.09.2022.md "Release 16/09/2022")
+* [Release 30/09/2022](release/30.09.2022.md "Release 30/09/2022")
