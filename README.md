@@ -21,3 +21,4 @@ Puede consultar las versiones de nuestra aplicación.
 * [Release 02/12/2022](release/02.12.2022.md "Release 02/12/2022")
 * [Release 24/02/2023](release/24.02.2023.md "Release 24/02/2023")
 * [Release 10/03/2023](release/10.03.2023.md "Release 10/03/2023")
+* [Release 24/03/2023](release/24.03.2023.md "Release 24/03/2023")
